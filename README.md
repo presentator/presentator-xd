@@ -1,9 +1,12 @@
 Presentator Adobe XD plugin
 ======================================================================
 
+> [!IMPORTANT]
+> This plugin is deprecated and works only with Presentator v2.
+
 <p align="center"><img src="https://i.imgur.com/Ogn23L4.png" alt="Plugin screenshots"></p>
 
-Adobe XD plugin to export artboard renditions to Presentator.
+Adobe XD plugin to export artboard renditions to Presentator v2.
 
 - [Installing](#installing)
 - [Development](#development)
